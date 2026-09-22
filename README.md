@@ -64,18 +64,6 @@ and well-structured databases.**
 - 🐙 GitHub
 - 📮 Postman
 
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" />
-
-</div>
-
 
 ---
 
